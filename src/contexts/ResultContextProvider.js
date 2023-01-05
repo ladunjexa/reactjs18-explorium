@@ -12,7 +12,7 @@ const baseURL = "https://seo-api.p.rapidapi.com/v1";
 export const ResultContextProvider = ({ children }) => {
   const [results, setResults] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
-  const [searchTerm, setSearchTerm] = useState("ladunjexa");
+  const [searchTerm, setSearchTerm] = useState("TailwindCSS");
 
   // Youtube URL Validator
   const validYoutubeURL = (url) => {
