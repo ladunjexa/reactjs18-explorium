@@ -7,7 +7,7 @@ import { Classifier } from "./Classifier";
  * SEARCH
  */
 export const Search = () => {
-  const [search, setSearch] = useState("ladunjexa");
+  const [search, setSearch] = useState("TailwindCSS");
   const { setSearchTerm } = useResultContext();
 
   // Handle Search
