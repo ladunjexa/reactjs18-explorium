@@ -36,7 +36,6 @@ export const ResultContextProvider = ({ children }) => {
     });
 
     const data = await response.json();
-    console.log(data);
 
     // Check Data Types
     if(type.includes("/video")) {
