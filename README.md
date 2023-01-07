@@ -241,7 +241,7 @@ Project Link: [https://github.com/ladunjexa/Explorium-Search-Engine](https://git
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
-This section used to mention useful resources and libraries that used in Explorium ChatGPT DALL-E
+This section used to mention useful resources and libraries that used in Explorium
 
  - [RapidAPI](https://rapidapi.com/)
  - [Google Fonts](https://fonts.google.com/)
