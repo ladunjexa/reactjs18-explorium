@@ -7,7 +7,7 @@
   <h1>Explorium</h1>
   
   <p>
-    Explorium is a well-designed *Search Engine* with content classification tools
+    Explorium is a well-designed <b>Search Engine</b> with content classification tools
   </p>
 
 <!-- Badges -->
