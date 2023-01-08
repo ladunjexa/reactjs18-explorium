@@ -81,8 +81,7 @@ Explorium is a Search Engine app with accurate, real-time search engine results 
 <!-- Folder Structure -->
 ### :bangbang: Folder Structure
 
-
-The folder structure of Explorium is separated into server-side and client-side.
+Here is the folder structure of Explorium.
 ```
 Explorium-Search-Engine/
 |- public/
