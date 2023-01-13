@@ -110,6 +110,7 @@ The public folder contains the HTML file so you can tweak it, for example, to se
 `Classifier.jsx` - `Footer.jsx` - `Loader.jsx` - `Navbar.jsx` - `Results.jsx` - `Router.jsx` - `Search.jsx`
 
 JSX files contain **Explorium** components which split the UI into independent and reusable pieces.
+
 `Classifier.jsx` - This component display classification links of data.
 
 `Footer.jsx` , `Navbar.jsx` - This components displays the Navigation Bar & Footer.
