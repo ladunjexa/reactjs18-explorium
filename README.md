@@ -33,7 +33,7 @@
 </p>
    
  <h4>
-    <a href="https://github.com/ladunjexa/Explorium-Search-Engine/">View Demo</a>
+    <a href="https://explorium-search-engine.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/Explorium-Search-Engine">Documentation</a>
   <span> · </span>
